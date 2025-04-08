@@ -6,6 +6,8 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Curriculum](#curriculum)
+   - [Prework](#prework)
+   - [Phase 1](#phase-1)
 
 ## Introduction
 Welcome to the Data Journey repository! This project encompasses a comprehensive curriculum for learning data science, along with a portfolio of projects and visualizations.
@@ -17,3 +19,19 @@ Welcome to the Data Journey repository! This project encompasses a comprehensive
 - **Python Loops and Functions**
 - **Statistical Measures**
 - **Data Visualization**
+
+### Phase 1
+- **Bash and Git**
+- **Data Analysis in Base Python**
+- **Data Analysis in Pandas**
+- **Data Cleaning in Pandas**
+- **Getting Started with SQL**
+- **SQL Table Relations**
+- **Other Database Structures**
+- **APIs**
+- **HTML, CSS and Web Scraping**
+- **APPENDIX: Pandas**
+- **APPENDIX: Functions**
+- **APPENDIX: No-SQL Databases**
+- **APPENDIX: XML**
+- **APPENDIX: More HTML and Scraping**
