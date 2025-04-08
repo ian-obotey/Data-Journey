@@ -10,6 +10,7 @@
   - [Phase 1](#phase-1)
   - [Phase 2](#phase-2)
   - [Phase 3](#phase-3)
+  - [Phase 4](#phase-4)
 
 ## Introduction
 Welcome to the Data Journey repository! This project encompasses a comprehensive curriculum for learning data science, along with a portfolio of projects and visualizations.
@@ -76,3 +77,20 @@ Welcome to the Data Journey repository! This project encompasses a comprehensive
 - **APPENDIX: More Linear Algebra**
 - **APPENDIX: More On Derivatives**
 - **APPENDIX: Support Vector Machines**
+
+### Phase 4
+- **Principal Component Analysis**
+- **Recommendation Systems**
+- **Clustering**
+- **Exploring Time Series Data**
+- **Modeling Time Series Data**
+- **Big Data and (Py)Spark**
+- **Natural Language Processing**
+- **Neural Networks**
+- **Tuning Neural Networks**
+- **Amazon Web Services**
+- **APPENDIX: More Time Series**
+- **APPENDIX: Graph Theory (Recommendation Systems)**
+- **APPENDIX: Transfer Learning (Image Classification)**
+- **APPENDIX: Deep NLP**
+
