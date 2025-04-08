@@ -8,6 +8,7 @@
 2. [Curriculum](#curriculum)
    - [Prework](#prework)
    - [Phase 1](#phase-1)
+   - [Phase 2](#phase-2)
 
 ## Introduction
 Welcome to the Data Journey repository! This project encompasses a comprehensive curriculum for learning data science, along with a portfolio of projects and visualizations.
@@ -35,3 +36,26 @@ Welcome to the Data Journey repository! This project encompasses a comprehensive
 - **APPENDIX: No-SQL Databases**
 - **APPENDIX: XML**
 - **APPENDIX: More HTML and Scraping**
+
+### Phase 2
+- **Topic 10.5: Data Visualisation and Presentation**
+- **Topic 11: Combinatorics and Probability**
+- **Topic 12: Statistical Distributions**
+- **Topic 13: Central Limit Theorem and Confidence Intervals**
+- **Topic 14: Hypothesis Testing**
+- **Topic 15: Statistical Power and ANOVA**
+- **Topic 16: AB Testing**
+- **Topic 17: Bayesian Statistics**
+- **Topic 18: Introduction to Linear Regression**
+- **Topic 19: Multiple Linear Regression**
+- **Topic 20: Regression Diagnostics**
+- **APPENDIX: Combinatorics**
+- **APPENDIX: More Distributions**
+- **APPENDIX: Monte Carlo**
+- **APPENDIX: Multiple Linear Regression Project**
+- **Topic 10.5: Data Visualisation and Presentation**
+- **Topic 11: Combinatorics and Probability**
+- **Topic 12: Statistical Distributions**
+- **Topic 13: Central Limit Theorem and Confidence Intervals**
+- **Topic 14: Hypothesis Testing**
+- **Topic 15: Statistical Power and ANOVA**
