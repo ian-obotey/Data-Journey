@@ -4,11 +4,12 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Curriculum](#curriculum)
-   - [Prework](#prework)
-   - [Phase 1](#phase-1)
-   - [Phase 2](#phase-2)
+- [Introduction](#introduction)
+- [Curriculum](#curriculum)
+  - [Prework](#prework)
+  - [Phase 1](#phase-1)
+  - [Phase 2](#phase-2)
+  - [Phase 3](#phase-3)
 
 ## Introduction
 Welcome to the Data Journey repository! This project encompasses a comprehensive curriculum for learning data science, along with a portfolio of projects and visualizations.
@@ -59,3 +60,19 @@ Welcome to the Data Journey repository! This project encompasses a comprehensive
 - **Central Limit Theorem and Confidence Intervals_2**
 - **Hypothesis Testing_2**
 - **Statistical Power and ANOVA_2**
+
+### Phase 3
+- **Object-Oriented Programming and Scikit-Learn**
+- **Linear Algebra and Calculus**
+- **Machine Learning Fundamentals**
+- **Logistic Regression**
+- **Classification Metrics**
+- **Decision Trees**
+- **K Nearest Neighbors**
+- **Bayes Classification**
+- **Model Tuning and Pipelines**
+- **Ensemble Methods**
+- **APPENDIX: More OOP**
+- **APPENDIX: More Linear Algebra**
+- **APPENDIX: More On Derivatives**
+- **APPENDIX: Support Vector Machines**
