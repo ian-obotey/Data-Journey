@@ -38,24 +38,24 @@ Welcome to the Data Journey repository! This project encompasses a comprehensive
 - **APPENDIX: More HTML and Scraping**
 
 ### Phase 2
-- **Topic 10.5: Data Visualisation and Presentation**
-- **Topic 11: Combinatorics and Probability**
-- **Topic 12: Statistical Distributions**
-- **Topic 13: Central Limit Theorem and Confidence Intervals**
-- **Topic 14: Hypothesis Testing**
-- **Topic 15: Statistical Power and ANOVA**
-- **Topic 16: AB Testing**
-- **Topic 17: Bayesian Statistics**
-- **Topic 18: Introduction to Linear Regression**
-- **Topic 19: Multiple Linear Regression**
-- **Topic 20: Regression Diagnostics**
+- **Data Visualisation and Presentation**
+- **Combinatorics and Probability**
+- **Statistical Distributions**
+- **Central Limit Theorem and Confidence Intervals**
+- **Hypothesis Testing**
+- **Statistical Power and ANOVA**
+- **AB Testing**
+- **Bayesian Statistics**
+- **Introduction to Linear Regression**
+- **Multiple Linear Regression**
+- **Regression Diagnostics**
 - **APPENDIX: Combinatorics**
 - **APPENDIX: More Distributions**
 - **APPENDIX: Monte Carlo**
 - **APPENDIX: Multiple Linear Regression Project**
-- **Topic 10.5: Data Visualisation and Presentation**
-- **Topic 11: Combinatorics and Probability**
-- **Topic 12: Statistical Distributions**
-- **Topic 13: Central Limit Theorem and Confidence Intervals**
-- **Topic 14: Hypothesis Testing**
-- **Topic 15: Statistical Power and ANOVA**
+- **Data Visualisation and Presentation_2**
+- **Combinatorics and Probability_2**
+- **Statistical Distributions_2**
+- **Central Limit Theorem and Confidence Intervals_2**
+- **Hypothesis Testing_2**
+- **Statistical Power and ANOVA_2**
