@@ -1,5 +1,5 @@
 # Data Journey
-
+![The Data Science Journey](the%20data%20science%20journey.png)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)
 
